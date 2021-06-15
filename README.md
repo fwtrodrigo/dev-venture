@@ -1,4 +1,4 @@
-# Registro Dev-Venture
+# Dev-Venture - Registros
 
 Atividades realizadas durante o bootcamp Dev Venture
 
